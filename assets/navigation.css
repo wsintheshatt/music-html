@@ -1,0 +1,9 @@
+li{
+    float: left;
+    padding: 20px;
+    margin:0;
+list-style-type: circle;
+    overflow: hidden;
+    background-color: orangered;
+}
+   li a:hover{color: #8d072f}
